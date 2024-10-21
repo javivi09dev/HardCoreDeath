@@ -1,0 +1,4 @@
+name: HardcoreDeath
+version: '1.1'
+main: me.javivi.hardcoredeath.Main
+api-version: '1.20'
